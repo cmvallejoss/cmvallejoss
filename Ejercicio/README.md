@@ -2,7 +2,7 @@
 
 - La única libreria que se ocupo para realizar el ejercicio fue pandas. Para instalarlo en console agregar la siguiente linea: `pip install pandas`
 
-**Notas Personales**
+**Notas Personales de ejercicio**
 
 En lo personal creo que no interprete de la mejor manera el ejercicio, quizás me faltaron más detalles.  O quizas un ejemplo de cual quiere que sea el resultado.
 A Continuación explicaré que fue lo que hice: 
